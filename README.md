@@ -4,7 +4,7 @@
 ---
 # ❓ 지금까지 뭐 하면서 놀았나
 #### 🕹 Game Developer(00~08)
-- [온라인 RPG 게임 The Fate](https://www.youtube.com/watch?v=1OmIMfuRq2w&t=618s)
+- [온라인 RPG 게임 The Fate](https://www.youtube.com/watch?v=njj5P-dPhnI&list=LL)
 - [액션 슈팅 게임 R.U. Ready?](https://www.gamemeca.com/view.php?gid=118686)
 - [온라인 아케이드 게임 Come on Baby!](https://www.youtube.com/watch?v=zKMKWA829wc)
 
